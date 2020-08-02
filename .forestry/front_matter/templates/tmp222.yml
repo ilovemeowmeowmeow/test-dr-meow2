@@ -1,4 +1,9 @@
 ---
 label: tmp222
 hide_body: true
-fields: []
+fields:
+- name: xxx
+  type: text
+  config:
+    required: false
+  label: xxx
