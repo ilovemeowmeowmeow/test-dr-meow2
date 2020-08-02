@@ -7,5 +7,15 @@ fields:
   config:
     required: false
   label: xxx
+- name: safsadfsdfsadf
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: safsadf
+  description: asdfasdfsdaf
 pages:
 - content/posts/post2.md
