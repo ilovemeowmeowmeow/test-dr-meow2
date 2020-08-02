@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: xxx
+pages:
+- content/posts/post2.md
