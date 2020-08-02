@@ -1,4 +1,10 @@
 ---
 label: tmp2
 hide_body: true
-fields: []
+fields:
+- name: aaa
+  type: text
+  config:
+    required: false
+  label: aaa
+  description: aaaaaaa
